@@ -1,0 +1,9 @@
+{
+  "appId": "com.kingisrael.calvoice",
+  "appName": "CalVoice",
+  "webDir": "www",
+  "backgroundColor": "#05060a",
+  "android": {
+    "backgroundColor": "#05060a"
+  }
+}
